@@ -3,7 +3,7 @@
 ## Step 1. Building test environment
 
 1. [ ] Build a database of 500 normal length posts with categories, tags, content, images, featured images, etc. Will probaby use WikiPedia entries for Countries and their capitals for that.
-2. [ ] 
+2. [ ] Decide what metrics should be measured.
 3. [ ] Select the plugins/code snipets we will use to measure performance.
 
 ## Step 2. Select alternative plugins for Jetpack
